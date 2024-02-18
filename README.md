@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi, I'm Kevin 👋
+
+I'm a great fan of Scala, Rust and Go and the whole developer community 🤙
+
+- 🔭 I’m currently working on a few personal projects and hope i can show them to you soon.
+- 🌱 I’m currently learning more about Go (exciting new updates), Neovim and looking forward to checkout a bit of HTMX
+- 💬 You can also find me on LinkedIn: [@kevin-t...](https://www.linkedin.com/in/kevin-t-a815a5190/)
+
 
 <!--
 **trucke/trucke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
