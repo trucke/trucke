@@ -1,5 +1,7 @@
 ### Hi, I'm Kevin 👋
 
+Passionate Software Developer | Interested in AI | #sharingiscaring
+
 I'm a great fan of Scala, Rust and Go and the whole developer community 🤙
 
 - 🔭 I’m currently working on a few personal projects and hope i can show them to you soon.
