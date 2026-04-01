@@ -37,7 +37,6 @@ Passionate about innovation that matters and collaborations that don't require 4
   <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img height="36" width="36" alt="HTML5" src="https://cdn.simpleicons.org/html5" /></a>
   <a href="https://htmx.org/" target="_blank" rel="noreferrer"><img height="36" width="36" alt="htmx" src="https://cdn.simpleicons.org/htmx" /></a>
   <a href="https://svelte.dev/" target="_blank" rel="noreferrer"><img height="36" width="36" alt="Svelte" src="https://cdn.simpleicons.org/svelte" /></a>
-  <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img height="36" width="36" alt="CSS3" src="https://cdn.simpleicons.org/css3" /></a>
   <a href="https://tailwindcss.com" target="_blank" rel="noreferrer"><img height="36" width="36" alt="Tailwind CSS" src="https://cdn.simpleicons.org/tailwindcss" /></a>
 </p>
 
