@@ -25,25 +25,18 @@ Passionate about innovation that matters and collaborations that don't require 4
   <a href="https://neovim.io" target="_blank" rel="noreferrer"><img height="36" width="36" alt="Neovim" src="https://cdn.simpleicons.org/neovim" /></a>
   <a href="https://www.docker.com" target="_blank" rel="noreferrer"><img height="36" width="36" alt="Docker" src="https://cdn.simpleicons.org/docker" /></a>
   <a href="https://podman.io" target="_blank" rel="noreferrer"><img height="36" width="36" alt="Podman" src="https://cdn.simpleicons.org/podman" /></a>
-  <a href="https://docs.ansible.com/" target="_blank" rel="noreferrer"><img height="36" width="36" alt="Ansible" src="https://cdn.simpleicons.org/ansible" /></a>
   <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img height="36" width="36" alt="Linux" src="https://cdn.simpleicons.org/linux" /></a>
   <a href="https://apple.com" target="_blank" rel="noreferrer"><img height="36" width="36" alt="macOS" src="https://cdn.simpleicons.org/macos" /></a>
   <a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"><img height="36" width="36" alt="Raspberry Pi" src="https://cdn.simpleicons.org/raspberrypi" /></a>
   <a href="https://proxmox.com/" target="_blank" rel="noreferrer"><img height="36" width="36" alt="Proxmox" src="https://cdn.simpleicons.org/proxmox" /></a>
 
   <a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img height="36" width="36" alt="Go" src="https://cdn.simpleicons.org/go" /></a>
-  <a href="https://elixir-lang.org/" target="_blank" rel="noreferrer"><img height="36" width="36" alt="Elixir" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/elixir/elixir-original.svg" /></a>
   <a href="https://www.scala-lang.org/" target="_blank" rel="noreferrer"><img height="36" width="36" alt="Scala" src="https://cdn.simpleicons.org/scala" /></a>
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img height="36" width="36" alt="C#" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" /></a>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img height="36" width="36" alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /></a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img height="36" width="36" alt="GNU Bash" src="https://cdn.simpleicons.org/gnubash" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img height="36" width="36" alt="Go" src="https://cdn.simpleicons.org/javascript" /></a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img height="36" width="36" alt="TypeScript" src="https://cdn.simpleicons.org/typescript" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img height="36" width="36" alt="HTML5" src="https://cdn.simpleicons.org/html5" /></a>
-  <a href="https://astro.build/" target="_blank" rel="noreferrer"><img height="36" width="36" alt="Astro" src="https://cdn.simpleicons.org/astro" /></a>
+  <a href="https://htmx.org/" target="_blank" rel="noreferrer"><img height="36" width="36" alt="htmx" src="https://cdn.simpleicons.org/htmx" /></a>
   <a href="https://svelte.dev/" target="_blank" rel="noreferrer"><img height="36" width="36" alt="Svelte" src="https://cdn.simpleicons.org/svelte" /></a>
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img height="36" width="36" alt="Vue" src="https://cdn.simpleicons.org/vuedotjs" /></a>
-  <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"><img height="36" width="36" alt="Nuxt.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nuxtjs/nuxtjs-original.svg" /></a>
   <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img height="36" width="36" alt="CSS3" src="https://cdn.simpleicons.org/css3" /></a>
   <a href="https://tailwindcss.com" target="_blank" rel="noreferrer"><img height="36" width="36" alt="Tailwind CSS" src="https://cdn.simpleicons.org/tailwindcss" /></a>
 </p>
